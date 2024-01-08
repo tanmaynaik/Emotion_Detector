@@ -1,4 +1,4 @@
-Emotion Detector Application
+# Emotion Detector Application
 
 Overview
     The Emotion Detector application is a Python-based project utilizing Machine Learning to analyze and detect emotions in images.
